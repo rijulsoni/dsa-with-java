@@ -175,5 +175,34 @@ public class starpatterns {
         //     System.out.println();
         // }
 
+        // Pattern 11: Print half diamond pattern
+        // *
+        // **
+        // ***
+        // ****
+        // *****
+        // ******
+        // *****
+        // ****
+        // ***
+        // **
+        // *
+        // int count = 6;
+        // for (int i = 1; i <= count; i++) {
+
+        //     for (int j = 1; j <= i; j++) {
+        //         System.out.print("*");
+        //     }
+        //     System.out.println();
+
+        // }
+        // for (int i = 1; i <= count; i++) {
+
+        //     for (int j = count - 1; j >= i; j--) {
+        //         System.out.print("*");
+        //     }
+        //     System.out.println();
+
+        // }
     }
 }
