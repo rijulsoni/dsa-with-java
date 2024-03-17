@@ -1,4 +1,4 @@
-// implemented ArrayList
+// implemented ArrayList in java
 public class arraylist {
     private int arr[];
     private int capacity;
